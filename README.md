@@ -28,7 +28,5 @@ Through this certification, I demonstrated knowledge of the following core Pytho
 
 ![HackerRank Python Basic Certificate](HackerRank_Python_Basic_SakshiMalve.jpg)
 
-## 🗂️ File(s) in this Repository
 
-- `HackerRank_Python_Basic_SakshiMalve.jpg` – Image of the certificate
 
